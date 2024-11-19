@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "322322304903",
+    "project_id": "latihan-if22a",
+    "storage_bucket": "latihan-if22a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:322322304903:android:b7c907eb6594a32b420d22",
+        "android_client_info": {
+          "package_name": "com.example.myapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8VAcmBaB-DzVlZ0bZIJo7CzhHoiza8Uk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:322322304903:android:3f9a81ea1f7dd758420d22",
+        "android_client_info": {
+          "package_name": "reflan.com"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8VAcmBaB-DzVlZ0bZIJo7CzhHoiza8Uk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
